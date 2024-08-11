@@ -1,0 +1,166 @@
+2024-08-11 18:47:57 - Key pressed: h
+2024-08-11 18:47:57 - Key pressed: e
+2024-08-11 18:47:58 - Key pressed: l
+2024-08-11 18:47:58 - Key pressed: l
+2024-08-11 18:47:58 - Key pressed: o
+2024-08-11 18:47:58 - Special key pressed: Key.space
+2024-08-11 18:47:59 - Key pressed: g
+2024-08-11 18:47:59 - Key pressed: u
+2024-08-11 18:48:00 - Key pressed: y
+2024-08-11 18:48:00 - Key pressed: s
+2024-08-11 18:48:13 - Special key pressed: Key.space
+2024-08-11 18:48:22 - Key pressed: h
+2024-08-11 18:48:22 - Key pressed: a
+2024-08-11 18:48:23 - Key pressed: p
+2024-08-11 18:48:23 - Key pressed: p
+2024-08-11 18:48:23 - Key pressed: y
+2024-08-11 18:48:24 - Special key pressed: Key.caps_lock
+2024-08-11 18:48:26 - Special key pressed: Key.caps_lock
+2024-08-11 18:48:27 - Key pressed: h
+2024-08-11 18:48:27 - Special key pressed: Key.caps_lock
+2024-08-11 18:48:27 - Key pressed: a
+2024-08-11 18:48:28 - Key pressed: c
+2024-08-11 18:48:28 - Key pressed: k
+2024-08-11 18:48:28 - Key pressed: i
+2024-08-11 18:48:28 - Key pressed: n
+2024-08-11 18:48:28 - Key pressed: g
+2024-08-11 18:48:29 - Special key pressed: Key.caps_lock
+2024-08-11 18:48:33 - Special key pressed: Key.shift
+2024-08-11 18:48:34 - Key pressed: !
+2024-08-11 18:48:34 - Key pressed: @
+2024-08-11 18:48:34 - Key pressed: #
+2024-08-11 18:48:35 - Key pressed: $
+2024-08-11 18:48:35 - Key pressed: %
+2024-08-11 18:48:37 - Special key pressed: Key.tab
+2024-08-11 18:48:39 - Special key pressed: Key.cmd
+2024-08-11 18:48:39 - Special key pressed: Key.cmd
+2024-08-11 18:48:40 - Special key pressed: Key.media_volume_down
+2024-08-11 18:48:41 - Special key pressed: Key.media_volume_up
+2024-08-11 18:48:59 - Special key pressed: Key.up
+2024-08-11 18:48:59 - Special key pressed: Key.up
+2024-08-11 18:49:00 - Special key pressed: Key.down
+2024-08-11 18:49:00 - Special key pressed: Key.down
+2024-08-11 18:49:00 - Special key pressed: Key.left
+2024-08-11 18:49:00 - Special key pressed: Key.left
+2024-08-11 18:49:01 - Special key pressed: Key.right
+2024-08-11 18:49:01 - Special key pressed: Key.right
+2024-08-11 18:49:02 - Special key pressed: Key.insert
+2024-08-11 18:49:02 - Special key pressed: Key.delete
+2024-08-11 18:49:02 - Special key pressed: Key.page_down
+2024-08-11 18:49:03 - Special key pressed: Key.down
+2024-08-11 18:49:03 - Special key pressed: Key.end
+2024-08-11 18:49:03 - Special key pressed: Key.left
+2024-08-11 18:49:04 - Key pressed: None
+2024-08-11 18:49:04 - Special key pressed: Key.right
+2024-08-11 18:49:04 - Special key pressed: Key.page_up
+2024-08-11 18:49:04 - Special key pressed: Key.up
+2024-08-11 18:49:05 - Special key pressed: Key.home
+2024-08-11 18:49:06 - Special key pressed: Key.num_lock
+2024-08-11 18:49:07 - Key pressed: /
+2024-08-11 18:49:07 - Key pressed: *
+2024-08-11 18:49:07 - Key pressed: -
+2024-08-11 18:49:08 - Key pressed: +
+2024-08-11 18:49:09 - Special key pressed: Key.enter
+2024-08-11 18:49:13 - Special key pressed: Key.shift_r
+2024-08-11 18:49:14 - Special key pressed: Key.shift_r
+2024-08-11 18:49:15 - Key pressed: :
+2024-08-11 18:49:15 - Key pressed: {
+2024-08-11 18:49:15 - Key pressed: _
+2024-08-11 18:50:16 - Special key pressed: Key.ctrl_l
+2024-08-11 18:50:16 - Special key pressed: Key.ctrl_l
+2024-08-11 18:50:16 - Key pressed: 
+2024-08-11 18:50:23 - Special key pressed: Key.f5
+2024-08-11 18:50:30 - Key pressed: 
+2024-08-11 18:50:39 - Special key pressed: Key.f5
+2024-08-11 18:51:41 - Special key pressed: Key.ctrl_l
+2024-08-11 18:51:41 - Special key pressed: Key.ctrl_l
+2024-08-11 18:51:41 - Special key pressed: Key.ctrl_l
+2024-08-11 18:51:41 - Special key pressed: Key.ctrl_l
+2024-08-11 18:51:41 - Key pressed: 
+2024-08-11 18:52:02 - Key pressed: 1
+2024-08-11 18:52:03 - Key pressed: 2
+2024-08-11 18:52:05 - Key pressed: l
+2024-08-11 18:52:06 - Key pressed: l
+2024-08-11 18:52:07 - Key pressed: l
+2024-08-11 18:52:09 - Key pressed: l
+2024-08-11 18:52:11 - Key pressed: l
+2024-08-11 18:52:16 - Key pressed: l
+2024-08-11 18:53:14 - Special key pressed: Key.caps_lock
+2024-08-11 18:53:15 - Key pressed: p
+2024-08-11 18:53:15 - Key pressed: r
+2024-08-11 18:53:15 - Key pressed: o
+2024-08-11 18:53:15 - Key pressed: d
+2024-08-11 18:53:16 - Key pressed: i
+2024-08-11 18:53:16 - Key pressed: g
+2024-08-11 18:53:16 - Key pressed: y
+2024-08-11 18:53:17 - Special key pressed: Key.caps_lock
+2024-08-11 18:53:17 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:18 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Special key pressed: Key.shift
+2024-08-11 18:53:19 - Key pressed: _
+2024-08-11 18:53:21 - Key pressed: C
+2024-08-11 18:53:21 - Key pressed: S
+2024-08-11 18:53:22 - Key pressed: _
+2024-08-11 18:53:23 - Key pressed: 0
+2024-08-11 18:53:23 - Key pressed: 4
+2024-08-11 18:53:35 - Special key pressed: Key.ctrl_l
+2024-08-11 18:53:35 - Key pressed: 
+2024-08-11 18:53:42 - Special key pressed: Key.caps_lock
+2024-08-11 18:53:43 - Special key pressed: Key.shift
+2024-08-11 18:53:44 - Special key pressed: Key.caps_lock
+2024-08-11 18:53:44 - Special key pressed: Key.shift
+2024-08-11 18:53:44 - Key pressed: P
+2024-08-11 18:53:44 - Key pressed: R
+2024-08-11 18:53:45 - Key pressed: O
+2024-08-11 18:53:45 - Key pressed: D
+2024-08-11 18:53:45 - Key pressed: I
+2024-08-11 18:53:45 - Key pressed: G
+2024-08-11 18:53:46 - Key pressed: Y
+2024-08-11 18:53:47 - Key pressed: _
+2024-08-11 18:53:47 - Key pressed: C
+2024-08-11 18:53:47 - Key pressed: S
+2024-08-11 18:53:48 - Key pressed: _
+2024-08-11 18:53:49 - Key pressed: 0
+2024-08-11 18:53:50 - Key pressed: 4
